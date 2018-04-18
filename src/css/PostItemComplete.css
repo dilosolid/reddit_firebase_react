@@ -1,0 +1,20 @@
+.titleText{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.titleInput {
+    width:860px;            
+}
+
+.contentText{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.submitButton {
+    margin-top: 20px;
+}
+
+
+

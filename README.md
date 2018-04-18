@@ -1,1 +1,1 @@
-Reddit Clone create with Firebase and ReactJS
+Reddit Clone create with Firebase, ReactJS and mobx
